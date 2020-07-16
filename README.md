@@ -1,4 +1,5 @@
-### Hi there 👋
+Specifying requirements in such detail that a machine can execute them is programming.
+
 
 <!--
 **YUN-RU-TSENG/YUN-RU-TSENG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
