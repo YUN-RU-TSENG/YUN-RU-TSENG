@@ -1,1 +1,1 @@
-Hi, I'm a Front-End engineer. [🂮](http://norvig.com/21-days.html)
+Hi, I'm a Front-End Developer. [🂮](http://norvig.com/21-days.html)
